@@ -12,6 +12,7 @@ Data visualization for soviet space dogs.
     * Flights: 42 missions that the dogs flew on.
     
 # Preview:
+<img width="1777" alt="Preview" src="https://user-images.githubusercontent.com/70231015/98631588-fc893f00-22da-11eb-81ab-b5268e315ab0.png">
 
 # Credits:
 
