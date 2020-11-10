@@ -1,0 +1,338 @@
+[
+ {
+   "Date": "1951-07-22",
+   "Dogs": "Dezik,Tsygan",
+   "Rocket": "R-1V",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1951-07-29",
+   "Dogs": "Dezik,Lisa",
+   "Rocket": "R-1B",
+   "Altitude (km)": "100",
+   "Result": "parachute failed, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1951-08-15",
+   "Dogs": "Chizhik,Mishka",
+   "Rocket": "R-1B",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1951-08-19",
+   "Dogs": "Ryzhik,Smeliy",
+   "Rocket": "R-1V",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1951-08-28",
+   "Dogs": "Chizhik,Mishka",
+   "Rocket": "R-1B",
+   "Altitude (km)": "100",
+   "Result": "failed, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1951-09-03",
+   "Dogs": "Neputeviy,ZIB",
+   "Rocket": "R-1B",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1951-06-26",
+   "Dogs": "Lisa-2,Ryzhik-2",
+   "Rocket": "R-1D",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1954-07-02",
+   "Dogs": "Damka,Mishka-2",
+   "Rocket": "R-1D",
+   "Altitude (km)": "100",
+   "Result": "recovered safely, mishka-2 died",
+   "Notes": ""
+ },
+ {
+   "Date": "1954-07-07",
+   "Dogs": "Damka,Ryzhik-2",
+   "Rocket": "R-1D",
+   "Altitude (km)": "100",
+   "Result": "recovered safely, ryshik-2 died",
+   "Notes": ""
+ },
+ {
+   "Date": "1954-07-26",
+   "Dogs": "Lisa-2,Ryzhik-3",
+   "Rocket": "unknown",
+   "Altitude (km)": "unknown",
+   "Result": "recovered safely",
+   "Notes": "no rocket or altitude info"
+ },
+ {
+   "Date": "1955-01-25",
+   "Dogs": "Rita,Linda",
+   "Rocket": "R-1E",
+   "Altitude (km)": "100",
+   "Result": "recovered safely, rita died",
+   "Notes": "or 1955-06-25"
+ },
+ {
+   "Date": "1955-02-05",
+   "Dogs": "Bulba,Lisa-2",
+   "Rocket": "R-1E",
+   "Altitude (km)": "100",
+   "Result": "recovery failed, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1955-11-04",
+   "Dogs": "Knopka,Malyshka",
+   "Rocket": "R-1E",
+   "Altitude (km)": "100",
+   "Result": "recovered safely after 3 days",
+   "Notes": ""
+ },
+ {
+   "Date": "1956-05-14",
+   "Dogs": "Albina,Kozyavka",
+   "Rocket": "R-1E",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1956-05-31",
+   "Dogs": "Linda,Malyshka",
+   "Rocket": "R-1E",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1956-06-07",
+   "Dogs": "Albina,Kozyavka",
+   "Rocket": "R-1E",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1956-06-14",
+   "Dogs": "Albina,Kozyavka",
+   "Rocket": "R-1E",
+   "Altitude (km)": "100",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1957-05-16",
+   "Dogs": "Damka-2,Ryzhaya",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1957-05-24",
+   "Dogs": "Dzhoyna,Ryzhaya",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "cabin decompression, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1957-08-25",
+   "Dogs": "Belka,Modnitsa",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1957-08-31",
+   "Dogs": "Belka,Damka-2",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1957-09-06",
+   "Dogs": "Belka,Modnitsa",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1957-11-03",
+   "Dogs": "Laika",
+   "Rocket": "R-7, Sputnik 2",
+   "Altitude (km)": "orbital",
+   "Result": "no recovery system, died in space",
+   "Notes": ""
+ },
+ {
+   "Date": "1958-02-21",
+   "Dogs": "Palma,Pushok",
+   "Rocket": "R-5A",
+   "Altitude (km)": "451",
+   "Result": "cabin decompression, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1958-08-02",
+   "Dogs": "Palma-2,Kusachka / Otvazhnaya",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1958-08-13",
+   "Dogs": "Palma-2,Kusachka / Otvazhnaya",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1958-08-27",
+   "Dogs": "Belyanka,Pestraya",
+   "Rocket": "R-5A",
+   "Altitude (km)": "451",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1958-09-19",
+   "Dogs": "Damka-2,Kozyavka",
+   "Rocket": "unknown",
+   "Altitude (km)": "unknown",
+   "Result": "recovered safely",
+   "Notes": "no rocket or altitude info"
+ },
+ {
+   "Date": "1958-10-31",
+   "Dogs": "Knopka,Zhulba",
+   "Rocket": "R-5A",
+   "Altitude (km)": "451",
+   "Result": "parachute failed, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1959-07-02",
+   "Dogs": "Kusachka / Otvazhnaya,Snezhinka / Zhemchuzhnaya",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": "flew with a rabbit named Marfusa"
+ },
+ {
+   "Date": "1959-07-10",
+   "Dogs": "Kusachka / Otvazhnaya,Snezhinka / Zhemchuzhnaya",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1960-06-15",
+   "Dogs": "Kusachka / Otvazhnaya,Malyok",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": "flew with a rabbit named Zvezdochka (Little Star)"
+ },
+ {
+   "Date": "1960-06-24",
+   "Dogs": "Kusachka / Otvazhnaya,Snezhinka / Zhemchuzhnaya",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": "Otvazhnaya's participation in this flight is questioned"
+ },
+ {
+   "Date": "1960-07-28",
+   "Dogs": "Lisichka,Bars / Chaika",
+   "Rocket": "R-7, Vostok Prototype",
+   "Altitude (km)": "was to be orbital",
+   "Result": "exploded during launch, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1960-08-19",
+   "Dogs": "Belka,Strelka",
+   "Rocket": "R-7, Sputnik 5",
+   "Altitude (km)": "orbital",
+   "Result": "spent one day in orbit, recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1960-09-16",
+   "Dogs": "Malyok,Palma-2",
+   "Rocket": "R-2A",
+   "Altitude (km)": "212",
+   "Result": "recovered safely",
+   "Notes": ""
+ },
+ {
+   "Date": "1960-09-22",
+   "Dogs": "Kusachka / Otvazhnaya,Neva",
+   "Rocket": "unknown",
+   "Altitude (km)": "unknown",
+   "Result": "recovered safely",
+   "Notes": "Otvazhnaya's participation in this flight is questioned"
+ },
+ {
+   "Date": "1960-12-01",
+   "Dogs": "Mushka,Pchyolka",
+   "Rocket": "R-7, Sputnik 6",
+   "Altitude (km)": "orbital",
+   "Result": "spent one day in orbit, capsule was destroyed, both dogs died",
+   "Notes": ""
+ },
+ {
+   "Date": "1960-12-22",
+   "Dogs": "Shutka,Kometka",
+   "Rocket": "R-7",
+   "Altitude (km)": "was to be orbital",
+   "Result": "upper stage failed, dogs recovered after a suborbital flight",
+   "Notes": ""
+ },
+ {
+   "Date": "1961-03-09",
+   "Dogs": "Chernuskha",
+   "Rocket": "R-7, Sputnik 9",
+   "Altitude (km)": "orbital",
+   "Result": "one orbit, recovered safely",
+   "Notes": "flew with a mannequin named Ivan Ivanovic"
+ },
+ {
+   "Date": "1961-03-25",
+   "Dogs": "Zvezdochka",
+   "Rocket": "R-7, Sputnik 10",
+   "Altitude (km)": "orbital",
+   "Result": "one orbit, recovered safely",
+   "Notes": "flew with a mannequin named Ivan Ivanovic"
+ },
+ {
+   "Date": "1966-02-22",
+   "Dogs": "Ugolyok / Snezhok,Veterok / Bzdunok",
+   "Rocket": "Voskhod, Cosmos 110",
+   "Altitude (km)": "orbital",
+   "Result": "recovered safely after a 22-day flight",
+   "Notes": ""
+ }
+]

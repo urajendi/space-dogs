@@ -1,0 +1,49 @@
+.stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.svgCanvas {
+	width: 100%;
+  height: 100vh;
+  z-index: -1;
+}
+
+#btnDebug {
+  position: fixed;
+  z-index:1;
+  top: 10px;
+  left: 10px;
+}
+
+.star {
+  fill: white;
+  animation: pulse var(--star-animation-duration, 1000ms) infinite backwards,
+    glowing var(--star-animation-glow-duration, 1000ms) infinite alternate backwards;
+  animation-delay: var(--star-animation-delay, 0);
+}
+
+#starGroup {
+  --dur: 100ms;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale3d(1, 1, 1);
+  }
+
+  30% {
+    transform: scale3d(1.2, 1.2, 1.2);
+  }
+
+  70% {
+    transform: scale3d(0.2, 0.2, 0.2);
+  }
+
+  100% {
+    transform: scale3d(1, 1, 1);
+  }
+}

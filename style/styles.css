@@ -1,0 +1,71 @@
+:root {
+    --color1: #1C1B2D;
+    --color2: #D93563;
+    --color3: rgba(249, 182, 89, 0.9);
+    --color4: #513852;
+}
+
+body {
+    margin: none;
+    height: 100vh;
+    background-color: var(--color1);
+    /* background-image: url("https://wallpapercave.com/wp/BMrmUGk.jpg"); */
+    overflow-y: scroll; 
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.title-bar {
+    /* border: 1px solid gray; */
+    background-color: transparent;
+    border-radius: 10px;
+    width: 1500px;
+    height: 100px;
+    display: flex;
+    margin-top: -1000px !important;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+.workspace-container{
+    width: 1700px;
+    height: 800px; 
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.left-box{
+    width: 1150px;
+}
+.mid-box{
+    width: 40px;
+}
+.right-box{
+    width: 500px;
+}
+.workspace {
+    /* background-color: var(--color3); */
+    background-color: var(--color3);
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 100%;
+    height: 800px; 
+    margin-right: 25px;
+}
+.info {
+    background-color: var(--color3);
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 100%;
+    height: 590px;
+    margin-bottom: 5px;
+}
+.legend {
+    background-color: var(--color3);
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 100%;
+    height: 200px;
+}
+

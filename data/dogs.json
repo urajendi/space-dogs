@@ -1,0 +1,434 @@
+[
+ {
+   "Name (Latin)": "Dezik",
+   "Name (English)": "Dezik",
+   "Name (Cyrillic)": "Дезик",
+   "Gender": "Male",
+   "Flights": "1951-07-22,1951-07-29",
+   "Fate": "Died 1951-07-29",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Tsygan",
+   "Name (English)": "Gypsy",
+   "Name (Cyrillic)": "Цыган",
+   "Gender": "Male",
+   "Flights": "1951-07-22",
+   "Fate": "Survived",
+   "Notes": "Adopted as a pet by Soviet physicist Anatoli Blagonravov"
+ },
+ {
+   "Name (Latin)": "Lisa",
+   "Name (English)": "Fox",
+   "Name (Cyrillic)": "Лиса",
+   "Gender": "Female",
+   "Flights": "1951-07-29",
+   "Fate": "Died 1951-07-29",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Chizhik",
+   "Name (English)": "Siskin",
+   "Name (Cyrillic)": "Чижик",
+   "Gender": "Male",
+   "Flights": "1951-08-15,1951-08-28",
+   "Fate": "Died 1951-08-28",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Mishka",
+   "Name (English)": "Little Bear",
+   "Name (Cyrillic)": "Мишка",
+   "Gender": "Male",
+   "Flights": "1951-08-15,1951-08-28",
+   "Fate": "Died 1951-08-28",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Ryzhik",
+   "Name (English)": "Ginger",
+   "Name (Cyrillic)": "Рыжик",
+   "Gender": "Male",
+   "Flights": "1951-08-19",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Smeliy",
+   "Name (English)": "Courageous",
+   "Name (Cyrillic)": "Смелая",
+   "Gender": "Male",
+   "Flights": "1951-08-19",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Neputeviy",
+   "Name (English)": "Scamp",
+   "Name (Cyrillic)": "Непутёвый",
+   "Gender": "Male",
+   "Flights": "1951-09-03",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "ZIB",
+   "Name (English)": "Substitute for Missing Bobik",
+   "Name (Cyrillic)": "Замена Исчезнувшему Бобику",
+   "Gender": "Male",
+   "Flights": "1951-09-03",
+   "Fate": "Survived",
+   "Notes": "An untrained street dog found running around the barracks, captured after Bobik ran away days before his flight."
+ },
+ {
+   "Name (Latin)": "Lisa-2",
+   "Name (English)": "Fox",
+   "Name (Cyrillic)": "Лиса",
+   "Gender": "Female",
+   "Flights": "1951-06-26,1954-07-26,1955-02-05",
+   "Fate": "Died 1955-02-05",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Ryzhik-2",
+   "Name (English)": "Ginger",
+   "Name (Cyrillic)": "Рыжик",
+   "Gender": "Male",
+   "Flights": "1951-06-26,1954-07-07",
+   "Fate": "Died 1954-07-07",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Damka",
+   "Name (English)": "Little Lady",
+   "Name (Cyrillic)": "Дамка",
+   "Gender": "Female",
+   "Flights": "1954-07-02,1954-07-07",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Mishka-2",
+   "Name (English)": "Little Bear",
+   "Name (Cyrillic)": "Мишка",
+   "Gender": "Male",
+   "Flights": "1954-07-02",
+   "Fate": "Died 1954-07-02",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Ryzhik-3",
+   "Name (English)": "Ginger",
+   "Name (Cyrillic)": "Рыжик",
+   "Gender": "Male",
+   "Flights": "1954-07-26",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Rita",
+   "Name (English)": "Rita",
+   "Name (Cyrillic)": "Рита",
+   "Gender": "Female",
+   "Flights": "1955-01-25",
+   "Fate": "Died 1955-01-25 or 1955-06-25",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Linda",
+   "Name (English)": "Linda",
+   "Name (Cyrillic)": "Лида",
+   "Gender": "Female",
+   "Flights": "1955-01-25,1956-05-31",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Bulba",
+   "Name (English)": "Bulba",
+   "Name (Cyrillic)": "Бульба",
+   "Gender": "Female",
+   "Flights": "1955-02-05",
+   "Fate": "Died 1955-02-05",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Knopka",
+   "Name (English)": "Button",
+   "Name (Cyrillic)": "Кнопка",
+   "Gender": "Female",
+   "Flights": "1955-11-04,1958-10-31",
+   "Fate": "Died 1958-10-31",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Malyshka",
+   "Name (English)": "Little One",
+   "Name (Cyrillic)": "Малышка",
+   "Gender": "Female",
+   "Flights": "1955-11-04,1956-05-31",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Albina",
+   "Name (English)": "Whitey",
+   "Name (Cyrillic)": "Альбина",
+   "Gender": "Female",
+   "Flights": "1956-05-14,1956-06-07,1956-06-14",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Kozyavka",
+   "Name (English)": "Little Gnat",
+   "Name (Cyrillic)": "Козявка",
+   "Gender": "Female",
+   "Flights": "1956-05-14,1956-06-07,1956-06-14,1958-09-19",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Damka-2",
+   "Name (English)": "Little Lady",
+   "Name (Cyrillic)": "Дамка",
+   "Gender": "Female",
+   "Flights": "1957-05-16,1957-08-31,1958-09-19",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Dzhoyna",
+   "Name (English)": "Dzhoyna",
+   "Name (Cyrillic)": "Джойна",
+   "Gender": "Female",
+   "Flights": "1957-05-24",
+   "Fate": "Died 1957-05-24",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Ryzhaya",
+   "Name (English)": "Redhead",
+   "Name (Cyrillic)": "Рыжая",
+   "Gender": "Female",
+   "Flights": "1957-05-16,1957-05-24",
+   "Fate": "Died 1957-05-24",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Belka",
+   "Name (English)": "Squirrel",
+   "Name (Cyrillic)": "Белка",
+   "Gender": "Female",
+   "Flights": "1957-08-25,1957-08-31,1957-09-06,1960-08-19",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Modnitsa",
+   "Name (English)": "Fashionable",
+   "Name (Cyrillic)": "Модница",
+   "Gender": "Female",
+   "Flights": "1957-08-25,1957-09-06",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Laika",
+   "Name (English)": "Barker",
+   "Name (Cyrillic)": "Лайка",
+   "Gender": "Female",
+   "Flights": "1957-11-03",
+   "Fate": "Died 1957-11-03",
+   "Notes": "Also known as Kudryavka (Little Curly) and Limonchik (Little Lemon) and Zhuchka (Little Beetle) and also Muttnik"
+ },
+ {
+   "Name (Latin)": "Palma",
+   "Name (English)": "Palm",
+   "Name (Cyrillic)": "Пальма",
+   "Gender": "Female",
+   "Flights": "1958-02-21",
+   "Fate": "Died 1958-02-21",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Pushok",
+   "Name (English)": "Fluffy",
+   "Name (Cyrillic)": "Пушок",
+   "Gender": "Male",
+   "Flights": "1958-02-21",
+   "Fate": "Died 1958-02-21",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Kusachka / Otvazhnaya",
+   "Name (English)": "Biter / Brave One",
+   "Name (Cyrillic)": "Отважная",
+   "Gender": "Female",
+   "Flights": "1959-07-02,1959-07-10,1960-06-15,1960-06-24,1960-09-22,1958-08-13,1958-08-02",
+   "Fate": "Survived",
+   "Notes": "Made the most flights of any space dog."
+ },
+ {
+   "Name (Latin)": "Palma-2",
+   "Name (English)": "Palm",
+   "Name (Cyrillic)": "Пальма",
+   "Gender": "Female",
+   "Flights": "1958-08-02,1958-08-13,1960-09-16",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Belyanka",
+   "Name (English)": "Little Whitey",
+   "Name (Cyrillic)": "Белянка",
+   "Gender": "Female",
+   "Flights": "1958-08-27",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Pestraya",
+   "Name (English)": "Spotted",
+   "Name (Cyrillic)": "Пестрая",
+   "Gender": "Female",
+   "Flights": "1958-08-27",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Zhulba",
+   "Name (English)": "Zhulba",
+   "Name (Cyrillic)": "Жульба",
+   "Gender": "Female",
+   "Flights": "1958-10-31",
+   "Fate": "Died 1958-10-31",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Snezhinka / Zhemchuzhnaya",
+   "Name (English)": "Snowflake / Pearly",
+   "Name (Cyrillic)": "Снежинка / Жемчужная",
+   "Gender": "Female",
+   "Flights": "1959-07-02,1959-07-10,1960-06-24",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Malyok",
+   "Name (English)": "Small Fry",
+   "Name (Cyrillic)": "Малёк",
+   "Gender": "Male",
+   "Flights": "1960-06-15,1960-09-16",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Lisichka",
+   "Name (English)": "Little Fox",
+   "Name (Cyrillic)": "Лисичка",
+   "Gender": "Female",
+   "Flights": "1960-07-28",
+   "Fate": "Died 1960-07-28",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Bars / Chaika",
+   "Name (English)": "Panther / Seagull",
+   "Name (Cyrillic)": "Барс / Чайка",
+   "Gender": "Female",
+   "Flights": "1960-07-28",
+   "Fate": "Died 1960-07-28",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Strelka",
+   "Name (English)": "Little Arrow",
+   "Name (Cyrillic)": "Стрелка",
+   "Gender": "Female",
+   "Flights": "1960-08-19",
+   "Fate": "Survived",
+   "Notes": "Went on to have six puppies with a male dog named Pushok who participated in many ground-based space experiments, but never made it into space. One of the pups was named Pushinka (Пушинка, \"Fluffy\") and was presented to President John F. Kennedy by Nikita Khrushchev in 1961. A Cold War romance bloomed between Pushinka and a Kennedy dog named Charlie, resulting in the birth of four pups that JFK referred to jokingly as pupniks. Two of their pups, Butterfly and Streaker were given away to children in the Midwest. The other two puppies, White Tips and Blackie, stayed at the Kennedy home on Squaw Island but were eventually given away to family friends."
+ },
+ {
+   "Name (Latin)": "Neva",
+   "Name (English)": "Neva",
+   "Name (Cyrillic)": "Нева",
+   "Gender": "Female",
+   "Flights": "1960-09-22",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Mushka",
+   "Name (English)": "Little Fly",
+   "Name (Cyrillic)": "Мушка",
+   "Gender": "Female",
+   "Flights": "1960-12-01",
+   "Fate": "Died 1960-12-01",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Pchyolka",
+   "Name (English)": "Little Bee",
+   "Name (Cyrillic)": "Пчёлка",
+   "Gender": "Female",
+   "Flights": "1960-12-01",
+   "Fate": "Died 1960-12-01",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Shutka",
+   "Name (English)": "Joke",
+   "Name (Cyrillic)": "Шутка",
+   "Gender": "Female",
+   "Flights": "1960-12-22",
+   "Fate": "Survived",
+   "Notes": "Also known as Damka (Little Lady) and Zhemchuzhina (Pearl). Adopted by Oleg Gazenko, a leading Soviet space scientist. She went on to have puppies and continued living with Gazenko and his family until her death 14 years later."
+ },
+ {
+   "Name (Latin)": "Chernuskha",
+   "Name (English)": "Blackie",
+   "Name (Cyrillic)": "Чернушка",
+   "Gender": "Female",
+   "Flights": "1961-03-09",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Kometka",
+   "Name (English)": "Comet",
+   "Name (Cyrillic)": "Кометка",
+   "Gender": "Female",
+   "Flights": "1960-12-22",
+   "Fate": "Survived",
+   "Notes": "Also known as Krasavka (Cheater) and Zhulka (Beauty) and Zhemchuzhnaya (Pearly) and Snezchinka (Snowflake)"
+ },
+ {
+   "Name (Latin)": "Zvezdochka",
+   "Name (English)": "Little Star",
+   "Name (Cyrillic)": "Звёздочка",
+   "Gender": "Female",
+   "Flights": "1961-03-25",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Ugolyok / Snezhok",
+   "Name (English)": "Little Piece of Coal / Snowball",
+   "Name (Cyrillic)": "Уголёк / Снежок",
+   "Gender": "Male",
+   "Flights": "1966-02-22",
+   "Fate": "Survived",
+   "Notes": ""
+ },
+ {
+   "Name (Latin)": "Veterok / Bzdunok",
+   "Name (English)": "Little Wind / Little Fart",
+   "Name (Cyrillic)": "Ветерок / Вздунок",
+   "Gender": "Male",
+   "Flights": "1966-02-22",
+   "Fate": "Survived",
+   "Notes": ""
+ }
+]
